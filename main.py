@@ -53,7 +53,7 @@ def calculator(numb1, action, numb2):
     return operation[action]
 
 
-TOKEN = "5910039796:AAFmNvCvtcbIt8YFnxYygLNtCInWjSpH9V8"
+TOKEN = ""
 MSG = "Добро пожаловать в калькулятор!"
 
 bot = Bot(token=TOKEN)
